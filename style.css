@@ -1,5 +1,34 @@
-.welcome{
-  text-align: center;
-  font-size: 40px;
-  font-family: fantasy
+body{
+  background-color: black;
+}
+
+.myname {
+  height: 100vh;
+  /*This part is important for centering*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.typing{
+  width: 20ch;
+  animation: typing 1.5s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+  color: white;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
 }
