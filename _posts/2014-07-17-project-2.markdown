@@ -1,14 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2021-09-20
-img: ibete.png
+date: 2014-07-17
+img: cake.png
 alt: image-alt
-project-date: September 2021
-client: Personal Project
-category: iOS App
-description: Welcome to iBete!
-This application is intended to help you manage your glucose levels. With it, you can write down your glucose levels as many times as needed during the day and keep everything in one place.
-You can also schedule personalized notifications to remind you when it is time to measure your glucose again.
-The data you add also generates graphs where you can analyze all the records over time in a visual way.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
