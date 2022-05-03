@@ -2,8 +2,8 @@
 title: Igor Silva
 email: igorsilvadeveloper@gmail.com
 url: https://github.com/igorsilvadev
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Professional website for iOS developer Igor Samoel da Silva. Graduated from Universidade Católica de Brasilia in Computer Science. Student of Apple Developer Academy - UCB. "
+keywords: "iOS Developer, iOS Apps, iOS Games, Developer, Developer Profile, iOS Personal Projects, Igor, Samoel, Silva"
 skills: "iOS Developer"
 meta_author: Silva Igor Samoel
 
@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary: 488030 #80B3FF
+  primary-rgb: "71,297,12" #"128,179,255"
+  secondary: 1b1c1d #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
@@ -53,7 +53,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Brasília - DF
-  - line: Brasil
+  - line: Brazil
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
