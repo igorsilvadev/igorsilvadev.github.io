@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2021-06-30
+img: darko.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2021
+client: Personal Project
+category: iOS Game
+description: Welcome to the world of Darko, an infinite running game that will challenge your reflexes!
+Travel through a forest full of endless secrets, spirits and enemies. Help the spirit of light survive the darkness on its way!
+Dodge enemies, collect rewards and increase your reflexes with each level progression. Connect with Game Center and compete with your friends for the best score!
+Darko seeks to innovate gameplay from the player's interaction with the screen, creating a new experience within infinite racing games. Enemies attack unpredictably and quickly, multiplying as the stages progress. In addition, the player must have agile fingers to prevent enemies from touching our hero. Be careful not to miss the limited rewards that appear on the map!
 ---
