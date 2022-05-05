@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2021-11-23
+title: ProdCast
+img: prodcast.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: November 2021
+app-link: https://apps.apple.com/us/app/prodcast/id1600978159?l=en
+category: iOS App
+technologies: SwiftUI, Core Data, XCTest
+description: ProdCast is a powerful tool for producing content for the internet. Its purpose is to simplify content production for podcasters, youtubers, bloggers, and not only people who work with the internet, but also for teachers and students who need to write texts and articles on a daily basis.  
 ---
